@@ -1,0 +1,33 @@
+section {
+    margin: 50px;
+    padding: 50px;
+    color: #ffffff;
+    border-radius: 25px;
+    background-color: #3CB371; 
+  }
+
+  form {
+    width: 400px;
+    padding: 20px;
+    margin: 0px auto;
+    border-radius: 15px;
+    background- color: #BFCDD9;
+    color: #515f69;
+  }
+  
+  form fieldset {
+    border: 0;  
+  }
+  
+  form fieldset label {
+    color: #515f69;
+    display: block;
+  }
+  
+  form fieldset input, textarea {
+    width: 100%;
+  }
+
+  
+
+  

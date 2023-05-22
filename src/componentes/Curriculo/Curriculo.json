@@ -1,0 +1,46 @@
+{
+    "Experiencia": [
+        {
+          "titulo": "Rodobens Caminhões (Caruaru-PE)",
+          "descricao": "Cargo: Auxiliar Administrativo",
+          "dataInicio": "2011",
+          "dataFim": "2012"  
+        },
+        {
+          "titulo": "Capital Cap (Brasília-DF)",
+          "descricao": "Cargo: Auxiliar Administrativo",
+          "dataInicio": "2012",
+          "dataFim": "2014"  
+        },
+        {
+          "titulo": "Trimania (Itajaí-SC)",
+          "descricao": "Cargo: Assistente Administrativo Operacional",
+          "dataInicio": "2014",
+          "dataFim": "2017"  
+        },
+        {
+          "titulo": "Unimed Caruaru (Caruaru-PE)",
+          "descricao": "Cargo: Assistente Operacional / Setor: Contas de Intercâmbio",
+          "dataInicio": "2017",
+          "dataFim": "2020"  
+        },
+        {
+          "titulo": "Unimed Caruaru",
+          "descricao": "Cargo: Técnico Administrativo / Setor: Núcleo de Cooperados",
+          "dataInicio": "2020",
+          "dataFim": "2021"  
+        },
+        {
+          "titulo": "Unimed Caruaru",
+          "descricao": "Cargo: Técnico Financeiro / Setor: Faturamento",
+          "dataInicio": "2021",
+          "dataFim": "2023"  
+        },
+        {
+          "titulo": "Unimed Caruaru",
+          "descricao": "Cargo: Técnico Financeiro / Setor: Produção Médica",
+          "dataInicio": "2023",
+          "dataFim": ""  
+        }
+    ]
+} 

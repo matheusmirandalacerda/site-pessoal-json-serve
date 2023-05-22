@@ -1,0 +1,57 @@
+body{
+  margin: 0;
+  background-color: #C0C0C0;
+  font-family: 'Roboto', sans-serif;
+ 
+}
+
+
+body img{
+  height: 150px;
+  border-radius: 10%;
+}
+
+
+.button{
+  border: 0;
+  color: #515f69;
+  padding: 25px;
+}
+
+.button:hover {
+  cursos: pointer;
+  color: #ffffff;
+  background-color: #8697a6;
+}
+
+
+@media screen and (max-width: 877px){
+  
+  nav ul {
+    display: flex;
+    flex-direction: column;
+  } 
+
+
+ section {
+    padding: 0;
+    margin: 0;
+    border-radius: 0; 
+  }
+
+  section h2 {
+    text-align: center;
+  }
+
+  .projetos_conteudo {
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+  }
+
+  form {
+    width: 300px;
+  }
+}
+
+ 

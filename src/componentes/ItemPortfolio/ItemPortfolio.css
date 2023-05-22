@@ -1,0 +1,19 @@
+.item-portfolio {
+  text-align: center;
+  display: inline-block;
+  margin: 30px;
+  width: 150px;
+  padding-left: 200px;
+}
+
+.item-portfolio a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #020608;
+  text-align: center;
+}
+
+.item-portfolio img {
+  width: 200px;
+}
+
