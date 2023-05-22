@@ -1,14 +1,18 @@
 import React from "react";
-import "./Cabecalho.css";
-import MatheusMiranda from "../../assets/Matheus_Miranda_Lacerda.jpeg";
 
-function Cabecalho() {
-  return (
-    <header>
-      <img src={MatheusMiranda} alt="Foto de Matheus" />
-      <h1 id="nome-perfil">Matheus Miranda Lacerda</h1>
-    </header>
-  );
+import "./Cabecalho.css";
+
+function Cabecalho(props) {
+
+    const { nome, cargo, foto } = props.informacoes;
+
+    return (
+        <header>
+            <img src={foto} alt="Foto de Matheus" />
+            <h1 id="nome-perfil">{nome}</h1>
+            <h3 id="eventoSubtitulo">{cargo}</h3>
+        </header>
+    )
 }
 
 export default Cabecalho;

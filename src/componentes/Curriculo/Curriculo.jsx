@@ -21,7 +21,7 @@ function Curriculo(props) {
                 <ul>
                     {experienciaAcademica.map((item, index) => (
                         <li key={index}>
-                            <b>({item.anoInicio} - {item.anoFim})</b> {item.titulo};
+                            <b>({item.anoInicio} - {item.anoFim})</b> {item.titulo} | {item.descricao};
                         </li>
                     ))}
                 </ul>
@@ -32,7 +32,7 @@ function Curriculo(props) {
                 <ul>
                     {experienciaProfissional.map((item, index) => (
                         <li key={index}>
-                            <b>({item.anoInicio} - {item.anoFim})</b> {item.titulo};
+                            <b>({item.anoInicio} - {item.anoFim})</b> {item.titulo} | {item.descricao};
                         </li>
                     ))}
                 </ul>
